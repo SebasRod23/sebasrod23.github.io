@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a95c2b7a.chunk.css",
+    "main.css": "/static/css/main.d5b87bf2.chunk.css",
     "main.js": "/static/js/main.e31753eb.chunk.js",
     "main.js.map": "/static/js/main.e31753eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
@@ -9,10 +9,10 @@
     "static/js/2.4840bce8.chunk.js": "/static/js/2.4840bce8.chunk.js",
     "static/js/2.4840bce8.chunk.js.map": "/static/js/2.4840bce8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e16f806ca1e8a1b9b6285bd2566c9193.js": "/precache-manifest.e16f806ca1e8a1b9b6285bd2566c9193.js",
+    "precache-manifest.b439adc6cffc5c4bb31bfa397b22191b.js": "/precache-manifest.b439adc6cffc5c4bb31bfa397b22191b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.a95c2b7a.chunk.css.map": "/static/css/main.a95c2b7a.chunk.css.map",
+    "static/css/main.d5b87bf2.chunk.css.map": "/static/css/main.d5b87bf2.chunk.css.map",
     "static/js/2.4840bce8.chunk.js.LICENSE.txt": "/static/js/2.4840bce8.chunk.js.LICENSE.txt",
     "static/media/alvap-img.png": "/static/media/alvap-img.fa36a5c0.png",
     "static/media/hack2020-img.png": "/static/media/hack2020-img.cd0e90c4.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.83c3e0c4.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.4840bce8.chunk.js",
-    "static/css/main.a95c2b7a.chunk.css",
+    "static/css/main.d5b87bf2.chunk.css",
     "static/js/main.e31753eb.chunk.js"
   ]
 }
